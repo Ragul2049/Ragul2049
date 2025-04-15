@@ -1,5 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗥𝗮𝗴𝘂𝗹  ✨  
-### **Data Alchemist** × **AI Explorer** × **Pixel Craftsman**  
+### **Data Science** × **UI/UX Designer ** × **Interested In AI**  
 
 🔮 *Transforming raw data into strategic insights*  
 🎨 *Designing interfaces that speak numbers*  
