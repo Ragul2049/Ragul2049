@@ -1,32 +1,29 @@
-# 𝗛𝗲𝘆, 𝗶'𝗺 𝗥𝗮𝗴𝘂𝗹.  
-### Data & AI Practitioner | Designer  
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗥𝗮𝗴𝘂𝗹  ✨  
+### **Data Alchemist** × **AI Explorer** × **Pixel Craftsman**  
 
-**Preparing for data roles** while blending **AI/ML** with **design thinking** to build intuitive analytics.  
-
----
-
-### 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝘂𝗶𝘁𝗲  
-#### 𝙳𝚊𝚝𝚊 �𝚛𝚘𝚏𝚒𝚌𝚒𝚎𝚗𝚌𝚢  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.mysql.com/)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)  
-
-#### �𝙧𝙚𝙙𝙞𝙘𝙩𝙞𝙫𝙚 𝙼𝙻/𝘿𝙇  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)  
-
-#### 𝙳𝚎𝚜𝚒𝚐𝚗 𝚃𝚘𝚘𝚕𝚔𝚒𝚝  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+🔮 *Transforming raw data into strategic insights*  
+🎨 *Designing interfaces that speak numbers*  
 
 ---
 
-### 𝗨𝗻𝗶𝗾𝘂𝗲 𝗧𝗼𝘂𝗰𝗵𝗲𝘀  
-- **"I turn raw data into visual stories"**  
-- **Designed dashboards** for 50+ mock clients (PowerBI/Tableau).  
-- **AI + Design**: Exploring generative AI for UI prototyping.  
+### 𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹  
+#### 𝙳𝙰𝚃𝙰 𝚂𝙲𝙸𝙴𝙽𝙲𝙴 & 𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"/> Python · <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"/> SQL · <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="20" height="20"/> Power BI · <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="20" height="20"/> Tableau  
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_@Ragul-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+#### 𝙰𝙸/𝙼𝙻 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁𝙸𝙽𝙶  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="20" height="20"/> TensorFlow · <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20" height="20"/> Scikit-learn  
+
+#### 𝙳𝙴𝚂𝙸𝙶𝙽 𝚂𝚈𝚂𝚃𝙴𝙼𝚂  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20" height="20"/> Figma · <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="20" height="20"/> Adobe XD · <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="20" height="20"/> Photoshop  
+
+---
+
+### 𝗗𝗶𝘀𝘁𝗶𝗻𝗴𝘂𝗶𝘀𝗵𝗶𝗻𝗴 𝗘𝗱𝗴𝗲  
+- 🧠 **AI-Powered Design**: Experimenting with generative AI for rapid prototyping  
+- 📊 **Data Storyteller**: Built 50+ interactive dashboards with actionable insights  
+- 🖌️ **Pixel Perfectionist**: UI/UX designs with ≤2px margin of error  
+
+📬 **Let's Collaborate**:  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"/> LinkedIn](https://linkedin.com/in/your-profile) · [📧 Email](mailto:your@email.com)  
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa539-700f-4a0b-8b0a-0c80bc855e47.gif)
